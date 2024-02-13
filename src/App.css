@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  position: fixed;
+}
+
+.button-previous {
+  left: 7%;
+}
+
+.button-next {
+  right: 7%;
+}
+
+img {
+  height: 100vh;
+  width: 100%;
+}
